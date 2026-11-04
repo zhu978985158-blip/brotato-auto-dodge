@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.import/
+.godot/
+.vscode/
+.idea/
+*.zip
+*.tmp
+*.bak
+*.log
+__pycache__/
+HOW_IT_WORKS.md
+/本地发布记录.md

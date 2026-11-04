@@ -1,0 +1,40 @@
+{
+    "name": "AutoDodge",
+    "namespace": "Tong",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/HelpFreedom/brotato-full-autobot",
+    "description": "自动战斗、躲避与可逐项控制的商店/升级机器人；支持手选成长、半自动构筑和全自动预设。",
+    "dependencies": [],
+    "extra": {
+        "godot": {
+            "authors": [
+                "Black Triangle (original Full Auto Bot)",
+                "Tong (independent controls adaptation)"
+            ],
+            "compatible_mod_loader_version": [
+                "6.0.0",
+                "6.1.0",
+                "6.3.0"
+            ],
+            "compatible_game_version": [
+                "1.1.15.4",
+                "1.1.15.3",
+                "1.1.15.2",
+                "1.1.15.1",
+                "1.1.15"
+            ],
+            "incompatibilities": [
+                "BlackTriangle-FullAutoBot"
+            ],
+            "optional_dependencies": [
+                "Oudstand-ModOptions"
+            ],
+            "load_before": [],
+            "tags": [
+                "Utilities",
+                "Quality of Life",
+                "AI"
+            ]
+        }
+    }
+}
